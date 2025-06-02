@@ -104,24 +104,6 @@ Baris 4: 20 25 30 0
 - **Kompleksitas Ruang**: O(n × 2ⁿ)
 - **Metode**: Bit masking + Memoization
 
-## 🎯 Test Cases
-
-| Test | Kota | Jenis | Min Cost |
-|------|------|-------|----------|
-| 1 | 3 | Symmetric | 16 |
-| 2 | 4 | Symmetric | 80 |
-| 3 | 5 | Asymmetric | 21 |
-| 4 | 6 | Complex | 138 |
-
-## ⚡ Performance
-
-| Kota | Waktu | States |
-|------|-------|--------|
-| 3 | < 100µs | 8 |
-| 4 | < 500µs | 16 |
-| 5 | < 2ms | 80 |
-| 6 | < 10ms | 320 |
-
 ## 📁 Struktur Project
 
 ```
